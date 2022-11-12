@@ -1,0 +1,58 @@
+body
+{
+	background: lightblue;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		padding-bottom: 50px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#player1_name_input , #player2_name_input
+{
+	display: inline-block;
+	margin-left: 20px;
+	width: 80%;
+	padding-bottom: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+hr{
+	color: black;
+}
+
+#p1n, #p2n{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#p1s, #p2s{
+	font-size: 18px;
+	margin-left: 7px;
+}
